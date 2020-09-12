@@ -1,7 +1,8 @@
 require 'telegram/bot'
-require_relative 'config'
 
-Telegram::Bot::Client.run(TOKEN) do |bot|
+token = ENV['TELEGRAM_BOT_API_TOKEN']
+
+Telegram::Bot::Client.run(token) do |bot|
   bot.listen do |message|
     bot.api.send_message(
       chat_id: message.chat.id,
