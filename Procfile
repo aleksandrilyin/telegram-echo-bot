@@ -1,1 +1,1 @@
-bot: bot.rb
+worker: bot.rb
