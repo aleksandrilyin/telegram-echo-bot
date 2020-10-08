@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
-ruby '~> 2.7'
+ruby '~> 2.7.0'
 
 gem 'telegram-bot-ruby'
