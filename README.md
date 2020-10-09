@@ -8,7 +8,7 @@ A simple echo bot for Telegram.
 
 ## Installation
 
-[Download ZIP](https://github.com/aleksandrilyin/telegram-echo-bot/archive/master.zip) or clone the repository locally:
+[Download ZIP](https://github.com/aleksandrilyin/telegram-echo-bot/archive/main.zip) or clone the repository locally:
 
 ```sh
 $ git clone git@github.com:aleksandrilyin/telegram-echo-bot.git
